@@ -36,7 +36,7 @@ This creates difficulty for users in tracking performance and making timely deci
 
 ## 💡 Proposed Solution
 
-The proposed solution is a smart, web-based stock portfolio, trading, and investment platform that integrates:
+The proposed solution is a smartand a web-based stock portfolio, trading and investment platform that integrates:
 
 - Live market data  
 - Stock analysis tools  
