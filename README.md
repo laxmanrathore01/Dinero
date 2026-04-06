@@ -21,6 +21,7 @@ Follow these steps to set up Stockify locally:
 
 1. Clone the repository: 
 ```
+https://github.com/laxmanrathore01/MarketPulse-Trading-Investment.git
 ```
 
 2. Install the required dependencies:
