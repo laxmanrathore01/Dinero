@@ -7,7 +7,7 @@ VISIT HERE : https://marketpulsebylaxman.vercel.app/
 
 - **Virtual Trading**: Users can create and manage their virtual portfolios, buy and sell stocks, and track their performance over time.
 
-- **Real-Time Market Data**: Stockify provides real-time market data, enabling users to make informed decisions based on the latest stock prices and trends.
+- **Real-Time Market Data**: Stockify provides real-time market data , enabling users to make informed decisions based on the latest stock prices and trends.
 
 - **Risk Management Tools**: Stockify offers a risk management tools to help users evaluate their investment strategies, set stop-loss orders, and manage their risk exposure effectively.
 
