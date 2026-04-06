@@ -1,6 +1,7 @@
 # MarketPulse
 
 MarketPulse is a virtual trading platform designed to provide users with an interactive experience in simulated stock trading. With a range of features and risk management tools, Stockify allows users to practice trading in a realistic environment without the risk of losing real money.
+VISIT HERE : https://marketpulsebylaxman.vercel.app/
 
 ## 🚛 Features
 
