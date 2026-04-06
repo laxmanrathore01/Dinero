@@ -26,8 +26,6 @@ https://github.com/laxmanrathore01/MarketPulse-Trading-Investment.git
 
 2. Install the required dependencies:
 ```
-
-
 cd frontend
   npm install
 cd backend
@@ -55,7 +53,6 @@ For frontend: npm start
 For backend: npm run dev 
 ```
 
-5. Access Stockify in your web browser at `http://localhost:3000`.
 
 ## 🏗 Technologies Used
 
